@@ -12,15 +12,15 @@ LinkedIn Downloader is a browser extension built for professionals, researchers,
 
 ## Links
 
-- 🚀 Get it here: [LinkedIn Downloader](https://serp.ly/linkedin-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/linkedin-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/linkedin-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/linkedin-downloader/issues)
+- ðŸš€ Get it here: [LinkedIn Downloader](https://serp.ly/linkedin-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/linkedin-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/linkedin-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/linkedin-downloader/issues)
 
 ## Preview
 
-![LinkedIn Downloader workflow preview](assets/workflow-preview.svg)
+![LinkedIn Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
