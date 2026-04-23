@@ -1,4 +1,4 @@
-# LinkedIn Downloader (Browser Extension)
+# LinkedIn Downloader
 
 > Download LinkedIn videos, images, and post text from feed pages and post pages in one browser workflow.
 
