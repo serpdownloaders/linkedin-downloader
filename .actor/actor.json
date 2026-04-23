@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "LinkedIn Downloader gives professionals, researchers, marketers, and content teams a dependable way to save LinkedIn content for offline reference. Instead of relying on copy-paste or generic scrapers, it captures visible LinkedIn videos, images, and post text directly from the browser in an organized local workflow.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "linkedin-downloader",
+  "readme": "../ACTOR.md",
+  "title": "LinkedIn Downloader",
+  "version": "0.0"
+}
